@@ -1,1 +1,6 @@
 John Leland code: KNN + PCA, Clustering removed so whatever else....
+
+
+JLDataLoad and KNN_EEE549 were inital prototypes. It's best to run the jupyter notebook as the plots are stored nicely there. 
+
+NOTE: FOR FMNIST YOU WILL NEED TO CHANGE THE DIRECTORY THAT THE DATASET IS SUPPOSED TO SAVE TO.
